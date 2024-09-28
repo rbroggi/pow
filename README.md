@@ -30,7 +30,7 @@ $$k = \lceil\frac{\log(1 - \delta)}{\log(1 - p)}\rceil$$
 
 Which we can easily put into a spreadsheet and compute some numbers:
 
-| y \\ delta | 50,00%      | 70,00%        | 80,00%        | 90,00%        | 95,00%        |
+| y \\ delta | 50%         | 70%           | 80%           | 90%           | 95%           |
 | ---------- | ----------- | ------------- | ------------- | ------------- | ------------- |
 | 1          | 1           | 2             | 3             | 4             | 5             |
 | 2          | 3           | 5             | 6             | 9             | 11            |
